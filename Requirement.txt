@@ -1,2 +1,2 @@
-Python
-streamlite
+google-genai
+streamlit
